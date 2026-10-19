@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #eeeeee;
+}
+
+h1 {
+  color: #2e2a4a;
+}
+
+#story {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+#card {
+  width: 480px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: black;
+}
+
+img {
+  display: inline-block;
+  margin: 10px;
+}
+
+button {
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 10px;
+}
